@@ -1,6 +1,7 @@
 {
     "name": "digitalmove/k-nearest",
     "description": "A K-Nearest Neighbors implementation for laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "Reflex2468",
